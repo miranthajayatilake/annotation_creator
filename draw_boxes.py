@@ -13,7 +13,7 @@ object_list = []
 # constants
 image_folder = 'images'
 savedir = 'annotations'
-obj = 'kumar sangakkara'
+obj = 'your_annotation_name_here'
 
 
 def line_select_callback(clk, rls):
